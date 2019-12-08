@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d4e8ba1-f4f7-4a06-99e1-248dfc6179d6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BallsBins.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/triforce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/escape.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -53,7 +50,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.triforce">
+  <component name="RunManager" selected="Application.escape">
     <configuration name="BallsBins" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="BallsBins" />
       <module name="code-questions" />
@@ -89,6 +86,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="escape" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="escape" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="triforce" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="triforce" />
       <module name="code-questions" />
@@ -102,6 +106,7 @@
       <item itemvalue="Application.PathCounter" />
       <item itemvalue="Application.BallsBins" />
       <item itemvalue="Application.triforce" />
+      <item itemvalue="Application.escape" />
       <item itemvalue="Application.EquationSolver" />
     </list>
   </component>
@@ -116,6 +121,14 @@
       <option name="presentableId" value="Default" />
       <updated>1573513200435</updated>
     </task>
+    <task id="LOCAL-00001" summary="question added for triforce">
+      <created>1575757344975</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575757344976</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -130,5 +143,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="question added for triforce" />
+    <option name="LAST_COMMIT_MESSAGE" value="question added for triforce" />
   </component>
 </project>
