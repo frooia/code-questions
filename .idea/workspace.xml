@@ -1,9 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d4e8ba1-f4f7-4a06-99e1-248dfc6179d6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/escape.java" afterDir="false" />
+    <list default="true" id="3d4e8ba1-f4f7-4a06-99e1-248dfc6179d6" name="Default Changelist" comment="Many new problem solutions added">
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/BallsBins.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/Bookkeeping1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/Bookkeeping2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/CropBlight.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/META-INF/code-questions.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/Vacuuming.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/again.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/anton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/artem.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/beautiful.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/bogosort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/booksez.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/booksez2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/calc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/candies.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/carousel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/composing.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/construct.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/copycopycopy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/disturbed.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/divisibility.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/dreamoon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/dreamoon2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/dreamoon3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/escape.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/eugene.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/karatsuba.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/limerick.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/middle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/motarack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/petr.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/polygon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/polyhedrons.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/powers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/rated.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/ride.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/showtime.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/simplestrings.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/stats.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/sumodds.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/susie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/threestrings.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/triforce.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/vanya.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/vasya.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/vasya2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/zmeigorynich.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ride.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ride.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/again.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/anton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/beautiful.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/booksez.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/booksez2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/candies.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/carousel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/composing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/construct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/disturbed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/divisibility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dreamoon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dreamoon2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dreamoon3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/eugene.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/karatsuba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/limerick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/middle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/motarack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/petr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polyhedrons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rated.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/showtime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/simplestrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stats.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sumodds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/susie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/threestrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vasya.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vasya2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zmeigorynich.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CropBlight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CropBlight.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,8 +110,11 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1TUSV1WsHWlYpisFdesrKUzdfXK" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -50,9 +135,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.escape">
+  <component name="RunManager" selected="Application.composing">
     <configuration name="BallsBins" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="BallsBins" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bookkeeping1" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Bookkeeping1" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Bookkeeping2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Bookkeeping2" />
       <module name="code-questions" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,8 +185,232 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Vacuuming" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Vacuuming" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="again" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="again" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="anton" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="anton" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="artem" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="artem" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="beautiful" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="beautiful" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bogosort" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="bogosort" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="booksez" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="booksez" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="candies" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="candies" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="carousel" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="carousel" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="composing" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="composing" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="construct" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="construct" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="disturbed" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="disturbed" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="divisibility" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="divisibility" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dreamoon" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="dreamoon" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dreamoon2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="dreamoon2" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="dreamoon3" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="dreamoon3" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="escape" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="escape" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="eugene" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="eugene" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="karatsuba" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="karatsuba" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="limerick" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="limerick" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="middle" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="middle" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="motarack" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="motarack" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="petr" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="petr" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="polygon" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="polygon" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="polyhedrons" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="polyhedrons" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="powers" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="powers" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ride" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ride" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="showtime" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="showtime" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="simplestrings" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="simplestrings" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="stats" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="stats" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="susie" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="susie" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="threestrings" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="threestrings" />
       <module name="code-questions" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -100,6 +423,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="vanya" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="vanya" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="vasya" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="vasya" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="vasya2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="vasya2" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.TimeKeeper" />
       <item itemvalue="Application.LabelSorter" />
@@ -107,7 +451,44 @@
       <item itemvalue="Application.BallsBins" />
       <item itemvalue="Application.triforce" />
       <item itemvalue="Application.escape" />
+      <item itemvalue="Application.Bookkeeping1" />
+      <item itemvalue="Application.Bookkeeping2" />
+      <item itemvalue="Application.Vacuuming" />
       <item itemvalue="Application.EquationSolver" />
+      <item itemvalue="Application.ride" />
+      <item itemvalue="Application.test" />
+      <item itemvalue="Application.polygon" />
+      <item itemvalue="Application.bogosort" />
+      <item itemvalue="Application.powers" />
+      <item itemvalue="Application.vanya" />
+      <item itemvalue="Application.vasya" />
+      <item itemvalue="Application.threestrings" />
+      <item itemvalue="Application.motarack" />
+      <item itemvalue="Application.polyhedrons" />
+      <item itemvalue="Application.simplestrings" />
+      <item itemvalue="Application.dreamoon" />
+      <item itemvalue="Application.susie" />
+      <item itemvalue="Application.petr" />
+      <item itemvalue="Application.disturbed" />
+      <item itemvalue="Application.divisibility" />
+      <item itemvalue="Application.beautiful" />
+      <item itemvalue="Application.carousel" />
+      <item itemvalue="Application.again" />
+      <item itemvalue="Application.limerick" />
+      <item itemvalue="Application.showtime" />
+      <item itemvalue="Application.dreamoon2" />
+      <item itemvalue="Application.dreamoon3" />
+      <item itemvalue="Application.booksez" />
+      <item itemvalue="Application.karatsuba" />
+      <item itemvalue="Application.artem" />
+      <item itemvalue="Application.anton" />
+      <item itemvalue="Application.stats" />
+      <item itemvalue="Application.middle" />
+      <item itemvalue="Application.eugene" />
+      <item itemvalue="Application.candies" />
+      <item itemvalue="Application.construct" />
+      <item itemvalue="Application.composing" />
+      <item itemvalue="Application.vasya2" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -128,7 +509,21 @@
       <option name="project" value="LOCAL" />
       <updated>1575757344976</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="escape completed">
+      <created>1575764453531</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575764453531</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Many new problem solutions added">
+      <created>1584548303636</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1584548303636</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -145,7 +540,10 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="question added for triforce" />
-    <option name="LAST_COMMIT_MESSAGE" value="question added for triforce" />
+    <MESSAGE value="escape completed" />
+    <MESSAGE value="Many new problem solutions added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Many new problem solutions added" />
   </component>
 </project>
