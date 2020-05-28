@@ -9,6 +9,14 @@ public class booksez2 {
             for (int j = 0; j < kids; j++) {
                 books[j] = iangay.nextInt() - 1;
             }
+            DSU dsu = new DSU(kids);
+            for (int j = 0; j < kids; j++) {
+                dsu.union(j, books[j]);
+            }
+            for (int j = 0; j < kids; j++) {
+                System.out.print(dsu.sizes[dsu.find(books[j])]+" ");
+            }
+            System.out.println();
         }
     }
 }
