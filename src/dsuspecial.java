@@ -1,6 +1,6 @@
-class DSU {
+class dsuspecial {
     int[] sizes, parent, rank;
-    DSU (int length) {
+    dsuspecial (int length) {
         sizes = new int[length]; parent = new int[length]; rank = new int[length];
         for (int i = 0; i < length; i++) { parent[i] = i; sizes[i] = 1; rank[i] = 1; }
     }

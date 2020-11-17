@@ -1,40 +1,26 @@
 import java.util.*;
 public class cards {
-    static int lowerBound(long[] a, int low, int high, long element) {
-        while (low < high) {
-            int middle = low + (high - low) / 2;
-            if (element == a[middle]) {
-                return middle;
-            } else if (element > a[middle]) {
-                low = middle + 1;
-            } else {
-                high = middle;
-            }
-        }
-        return low-1;
-    }
-    public static <T> List<T> convertAtoL(T array[]) {
-        return Arrays.asList(array);
-    }
-    public static int maxPyramids(long[] cardCounts, long n) {
-        if (n < 2) { return 0; }
-        int lowerbound = lowerBound(cardCounts, 0, cardCounts.length, n);
-//        System.out.println(lowerbound+": "+cardCounts[lowerbound]);
-        return 1 + maxPyramids(cardCounts, n-cardCounts[lowerbound]);
+    private static int gcd(int a, int b) {
+        if (a == 0) { return b; }
+        return gcd(b%a, a);
     }
     public static void main(String[] args) {
-        long[] cardCounts = new long[25820];
-        for (int i = 0; i < cardCounts.length; i++) {
-            cardCounts[i] = (3 * i * (i - 1) / 2 + 2 * i);
-        }
         Scanner iangay = new Scanner(System.in);
         int tc = iangay.nextInt();
-        for (int i = 0; i < tc; i++) {
-            long n = iangay.nextLong();
-            System.out.println(maxPyramids(cardCounts, n));
+        while (tc --> 0) {
+            int n = iangay.nextInt();
+            int[] s = new int[n];
+            for (int i = 0; i < n; i++) { s[i] = iangay.nextInt(); }
+            Arrays.sort(s);
+
+            if (n == 1) { System.out.println(-1); }
+            else if (n == 2) {
+                if (gcd(s[0], s[1]) == 1) { System.out.println(s[0] * s[1] - s[0] - s[1]); }
+                else { System.out.println(-1); }
+            }
+            else {
+                System.out.println(0);
+            }
         }
-//        long[] a = {1, 3, 4, 6, 10, 11, 34};
-//        System.out.println(lowerBound(a, 0, a.length, 11));
-//        System.out.println(lowerBound(a, 0, a.length, 12));
     }
 }

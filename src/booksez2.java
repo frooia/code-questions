@@ -9,7 +9,7 @@ public class booksez2 {
             for (int j = 0; j < kids; j++) {
                 books[j] = iangay.nextInt() - 1;
             }
-            DSU dsu = new DSU(kids);
+            dsuspecial dsu = new dsuspecial(kids);
             for (int j = 0; j < kids; j++) {
                 dsu.union(j, books[j]);
             }

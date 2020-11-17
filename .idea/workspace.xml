@@ -1,91 +1,383 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d4e8ba1-f4f7-4a06-99e1-248dfc6179d6" name="Default Changelist" comment="Many new problem solutions added">
-      <change afterPath="$PROJECT_DIR$/out/production/code-questions/BallsBins.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/code-questions/Bookkeeping1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/code-questions/Bookkeeping2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/code-questions/CropBlight.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/code-questions/META-INF/code-questions.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/code-questions/Vacuuming.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/code-questions/again.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/code-questions/anton.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/code-questions/artem.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/code-questions/beautiful.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/code-questions/bogosort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/code-questions/booksez.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/code-questions/booksez2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/code-questions/calc.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/code-questions/candies.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/code-questions/carousel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/code-questions/composing.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/code-questions/construct.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/code-questions/copycopycopy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/code-questions/disturbed.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/code-questions/divisibility.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/code-questions/dreamoon.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/code-questions/dreamoon2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/code-questions/dreamoon3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/code-questions/escape.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/code-questions/eugene.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/code-questions/karatsuba.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/code-questions/limerick.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/code-questions/middle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/code-questions/motarack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/code-questions/petr.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/code-questions/polygon.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/code-questions/polyhedrons.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/code-questions/powers.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/code-questions/rated.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/code-questions/ride.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/code-questions/showtime.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/code-questions/simplestrings.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/code-questions/stats.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/code-questions/sumodds.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/code-questions/susie.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/code-questions/test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/code-questions/threestrings.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/code-questions/triforce.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/code-questions/vanya.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/code-questions/vasya.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/code-questions/vasya2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/code-questions/zmeigorynich.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ride.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ride.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/again.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/anton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/artem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/beautiful.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/booksez.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/booksez2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/candies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/carousel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/composing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/construct.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/disturbed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/divisibility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dreamoon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dreamoon2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dreamoon3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/eugene.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/karatsuba.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/limerick.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/middle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/motarack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/petr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polyhedrons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rated.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/showtime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/simplestrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stats.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sumodds.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/susie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/threestrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vasya.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vasya2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/zmeigorynich.java" afterDir="false" />
+    <list default="true" id="3d4e8ba1-f4f7-4a06-99e1-248dfc6179d6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/IntegerArray.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QuickSort.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/DSU.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/FastScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/_template$FastScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/_template.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/adjacent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/algebra$FastScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/algebra.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/anton2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/aplusb.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/applejack$FastScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/applejack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/artem2$FastScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/artem2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/athletes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/balanced.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/balanced2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/basketball.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/beautiful2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/beautiful3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/binary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/bit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/boboniu$FastScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/boboniu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/bonobiu2$FastScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/bonobiu2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/calendar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/candies2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/cards.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/cards2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/celex.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/christmas.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/code$FastScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/code.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/collatz$FastScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/collatz.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/colorgrid$FastScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/colorgrid$pair.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/colorgrid.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/colorrect$FastScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/colorrect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/common$FastScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/common.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/compcampstudent.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/cookie$FastScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/cookie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/corners$FastScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/corners.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/coronavirus$DSU.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/coronavirus$FastScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/coronavirus$pair.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/coronavirus.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/count.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/cplusequals$FastScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/cplusequals.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/crossroads$FastScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/crossroads.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/cupcakes.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/deathnote.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/distance.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/distribution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/divide.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/divisible.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/dodgeball$FastScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/dodgeball.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/door.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/dsuspecial.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/energy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/equal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/even.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/fairground$FastScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/fairground.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/fence$FastScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/fence.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/flip.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/frog.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/game23.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/gcd.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/general.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/giftfix$FastScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/giftfix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/gifting$FastScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/gifting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/goodsub$FastScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/goodsub.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/graysonbad$FastScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/graysonbad$graph$edge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/graysonbad$graph$sub.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/graysonbad$graph.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/graysonbad.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/gstring$FastScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/gstring.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/hausmeister$FastScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/hausmeister.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/haybales.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/hotel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/icebreaker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/ichihime.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/kana.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/kuriyama$FastScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/kuriyama.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/languages.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/languages2$DSU.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/languages2$FastScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/languages2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/lcmprob$FastScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/lcmprob.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/lighting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/lineup$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/lineup$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/lineup$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/lineup.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/longwords.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/lose.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/makegood$FastScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/makegood.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/marginal.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/maria.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/matrix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/merge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/messages.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/minnim$FastScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/minnim.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/minnimbad$FastScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/minnimbad.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/minsquare.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/misha$DSU.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/misha$pair.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/misha.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/modinv$FastScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/modinv.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/money.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/mootube$FastScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/mootube.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/napsack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/naptime.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/nastya.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/nims$FastScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/nims.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/nprime$FastScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/nprime.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/omit$FastScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/omit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/pair.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/pairs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/pairup.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/pairwise$FastScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/pairwise.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/pairzoom.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/palindrome.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/parity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/party$FastScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/party.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/pasha.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/penlight.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/permutation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/pflip$FastScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/pflip.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/pillars.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/pizza$FastScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/pizza.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/poker.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/polling.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/powernaps$FastScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/powernaps.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/practice$FastScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/practice.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/profitmax$FastScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/profitmax.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/pseudocode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/push.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/puzzle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/quicksort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/rainbow$FastScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/rainbow.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/rating.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/recruitment$FastScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/recruitment.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/regionals.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/remainder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/restore$FastScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/restore.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/road.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/romanji.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/selection.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/shell.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/shovels.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/shuffle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/skier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/small$FastScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/small.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/snakeid$FastScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/snakeid.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/snooze$FastScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/snooze.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/sonya.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/spiderman.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/split.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/square.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/sticks.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/subrmv$FastScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/subrmv.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/surely.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/swamp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/taxi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/team.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/tejasanta$FastScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/tejasanta.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/theater.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/three.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/timezone.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/trade$FastScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/trade.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/triangle$FastScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/triangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/twocarpets$FastScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/twocarpets.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/unicorn.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/unionfind$DSU.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/unionfind$FastScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/unionfind.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/upload$FastScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/upload.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/upsolver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/vasya3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/vasya4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/vasya5$FastScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/vasya5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/vasya6$FastScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/vasya6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/voyage$FastScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/voyage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/vu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/water.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/weather$FastScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/weather.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/winwinwin$FastScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/winwinwin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/xenia.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/zoom$FastScanner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/zoom$sortcomparator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/code-questions/zoom.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_BSTNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_DSU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_FastScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/algebra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/applejack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/artem2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basketball.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/beautiful3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/boboniu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bonobiu2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calendar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cards2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/christmas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/code.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collatz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/colorgrid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/colorrect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/common.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cookie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/corners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/coronavirus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/count.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cplusequals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/crossroads.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cupcakes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/deathnote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/distance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/divide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/dodgeball.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/energy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/equal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/even.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fairground.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/flip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/frog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/giftfix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gifting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/goodsub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/graysonbad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gstring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hausmeister.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/haybales.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icebreaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/languages2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lcmprob.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lineup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/longwords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/makegood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/marginal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/merge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/minnim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/minnimbad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modinv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/money.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/mootube.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/napsack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/naptime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nims.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nprime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/omit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pairup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pairwise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/party.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pasha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/penlight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pflip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pillars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/polling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/powernaps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/profitmax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pseudocode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/push.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/quicksort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rainbow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rating.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/recruitment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/regionals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/remainder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/restore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/romanji.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/selection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shovels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/shuffle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/small.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/snakeid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/snooze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sonya.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/spiderman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/split.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sticks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/subrmv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/surely.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/swamp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/taxi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tejasanta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/theater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/three.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timezone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/trade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/twocarpets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unicorn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/unionfind.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/upload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/upsolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vasya3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vasya4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vasya5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vasya6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/voyage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/water.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/weather.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/winwinwin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/zoom.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CropBlight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CropBlight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/code-questions/booksez2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/booksez2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DSU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dsuspecial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_template.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_template.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/booksez2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/booksez2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cards.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cards.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/kuriyama.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/kuriyama.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/misha.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/misha.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -99,6 +391,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -117,8 +410,15 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
     </key>
@@ -135,7 +435,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.composing">
+  <component name="RunManager" selected="Application.profitmax">
     <configuration name="BallsBins" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="BallsBins" />
       <module name="code-questions" />
@@ -192,6 +492,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="adjacent" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="adjacent" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="again" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="again" />
       <module name="code-questions" />
@@ -206,6 +513,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="anton2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="anton2" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="artem" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="artem" />
       <module name="code-questions" />
@@ -213,8 +527,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="athletes" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="athletes" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="balanced" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="balanced" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="balanced2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="balanced2" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="beautiful" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="beautiful" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="binary" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="binary" />
       <module name="code-questions" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -234,6 +576,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="booksez2" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="booksez2" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="candies" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="candies" />
       <module name="code-questions" />
@@ -241,8 +590,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="cards" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="cards" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="carousel" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="carousel" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="celex" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="celex" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="collatz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collatz" />
       <module name="code-questions" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -262,6 +632,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="distribution" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="distribution" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="disturbed" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="disturbed" />
       <module name="code-questions" />
@@ -271,6 +648,20 @@
     </configuration>
     <configuration name="divisibility" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="divisibility" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="divisible" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="divisible" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="door" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="door" />
       <module name="code-questions" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -311,8 +702,71 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="game23" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="game23" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gcd" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="gcd" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="general" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="general" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hotel" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="hotel" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ichihime" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ichihime" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="kana" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="kana" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="karatsuba" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="karatsuba" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="kuriyama" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="kuriyama" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="languages" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="languages" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lighting" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="lighting" />
       <module name="code-questions" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -325,8 +779,43 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="longwords" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="longwords" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="maria" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="maria" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="messages" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="messages" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="middle" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="middle" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="minsquare" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="minsquare" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="modinv" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="modinv" />
       <module name="code-questions" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -339,8 +828,57 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="nastya" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="nastya" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="omit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="omit" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pairs" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="pairs" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="parity" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="parity" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="party" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="party" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="permutation" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="permutation" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="petr" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="petr" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="poker" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="poker" />
       <module name="code-questions" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -367,8 +905,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="profitmax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="profitmax" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="puzzle" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="puzzle" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ride" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="ride" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="road" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="road" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="shovels" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="shovels" />
       <module name="code-questions" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -388,6 +954,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="skier" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="skier" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="stats" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="stats" />
       <module name="code-questions" />
@@ -402,8 +975,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="team" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="team" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="test" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="theater" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="theater" />
       <module name="code-questions" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -445,6 +1032,8 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.longwords" />
+      <item itemvalue="Application.shovels" />
       <item itemvalue="Application.TimeKeeper" />
       <item itemvalue="Application.LabelSorter" />
       <item itemvalue="Application.PathCounter" />
@@ -488,8 +1077,56 @@
       <item itemvalue="Application.candies" />
       <item itemvalue="Application.construct" />
       <item itemvalue="Application.composing" />
+      <item itemvalue="Application.booksez2" />
+      <item itemvalue="Application.ichihime" />
+      <item itemvalue="Application.kana" />
+      <item itemvalue="Application.languages" />
+      <item itemvalue="Application.balanced" />
+      <item itemvalue="Application.general" />
+      <item itemvalue="Application.anton2" />
+      <item itemvalue="Application.messages" />
+      <item itemvalue="Application.kuriyama" />
+      <item itemvalue="Application.gcd" />
+      <item itemvalue="Application.game23" />
+      <item itemvalue="Application.road" />
+      <item itemvalue="Application.binary" />
+      <item itemvalue="Application.team" />
+      <item itemvalue="Application.balanced2" />
+      <item itemvalue="Application.distribution" />
+      <item itemvalue="Application.adjacent" />
+      <item itemvalue="Application.skier" />
+      <item itemvalue="Application.parity" />
+      <item itemvalue="Application.divisible" />
+      <item itemvalue="Application.pairs" />
+      <item itemvalue="Application.poker" />
+      <item itemvalue="Application.theater" />
+      <item itemvalue="Application.minsquare" />
+      <item itemvalue="Application.athletes" />
+      <item itemvalue="Application.lighting" />
+      <item itemvalue="Application.maria" />
+      <item itemvalue="Application.celex" />
+      <item itemvalue="Application.puzzle" />
+      <item itemvalue="Application.cards" />
+      <item itemvalue="Application.hotel" />
+      <item itemvalue="Application.nastya" />
+      <item itemvalue="Application.door" />
+      <item itemvalue="Application.permutation" />
       <item itemvalue="Application.vasya2" />
+      <item itemvalue="Application.party" />
+      <item itemvalue="Application.collatz" />
+      <item itemvalue="Application.modinv" />
+      <item itemvalue="Application.omit" />
+      <item itemvalue="Application.profitmax" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.profitmax" />
+        <item itemvalue="Application.omit" />
+        <item itemvalue="Application.modinv" />
+        <item itemvalue="Application.collatz" />
+        <item itemvalue="Application.party" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -523,7 +1160,21 @@
       <option name="project" value="LOCAL" />
       <updated>1584548303636</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="More CodeForces problem solutions">
+      <created>1586893558539</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1586893558539</updated>
+    </task>
+    <task id="LOCAL-00005" summary="More CodeForces problem solutions">
+      <created>1590635827739</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1590635827740</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -544,6 +1195,7 @@
     <MESSAGE value="question added for triforce" />
     <MESSAGE value="escape completed" />
     <MESSAGE value="Many new problem solutions added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Many new problem solutions added" />
+    <MESSAGE value="More CodeForces problem solutions" />
+    <option name="LAST_COMMIT_MESSAGE" value="More CodeForces problem solutions" />
   </component>
 </project>
