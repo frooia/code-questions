@@ -12,11 +12,11 @@ class DSU {
             size[i] = 1;
         }
     }
-    int find(int v) { // average time O(logn)
+    int find(int v) { // average time O(inverse Ackermann function, basically constant)
         if (parent[v] == v) return v;
         return parent[v] = find(parent[v]);
     }
-    void union(int a, int b) { // average time O(logn)
+    void union(int a, int b) { // average time same as find()
         a = find(a); b = find(b);
         if (a == b) return;
         if (rank[a] < rank[b])  {
