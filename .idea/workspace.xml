@@ -2,338 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d4e8ba1-f4f7-4a06-99e1-248dfc6179d6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_Sieve_of_Eratosthenes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/charging.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/circularrotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/complexcode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/confusingconvs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cowsnacks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dotdotdot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dvd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enterthematrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/evenodd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/expectations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/house.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/manhattan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maxarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maxmex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/melon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mexstr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mtx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/nomor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/notsoselfdriving.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/passwords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/permsort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/phonenum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/polynomial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/potionmaking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scavhunt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shortcircuit$FastScanner.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shortcircuit.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shortcircuit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/transposematrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/triangles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/worse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cobbledstreets.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/BallsBins.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/BallsBins.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/Bookkeeping1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/Bookkeeping1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/Bookkeeping2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/Bookkeeping2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/CropBlight.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/CropBlight.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/DSU.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/DSU.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/EquationSolver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/EquationSolver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/LabelSorter$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/LabelSorter$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/LabelSorter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/LabelSorter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/META-INF/code-questions.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/PathCounter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/PathCounter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/TimeKeeper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/TimeKeeper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/Vacuuming.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/Vacuuming.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/_template$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/_template$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/_template.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/_template.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/adjacent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/adjacent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/again.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/again.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/algebra$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/algebra$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/algebra.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/algebra.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/anton.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/anton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/anton2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/anton2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/aplusb.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/aplusb.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/applejack$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/applejack$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/applejack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/applejack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/artem.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/artem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/artem2$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/artem2$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/artem2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/artem2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/athletes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/athletes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/balanced.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/balanced.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/balanced2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/balanced2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/basketball.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/basketball.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/beautiful.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/beautiful.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/beautiful2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/beautiful2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/beautiful3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/beautiful3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/binary.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/binary.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/bit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/bit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/boboniu$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/boboniu$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/boboniu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/boboniu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/bogosort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/bogosort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/bonobiu2$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/bonobiu2$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/bonobiu2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/bonobiu2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/booksez.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/booksez.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/booksez2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/booksez2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/calc.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/calc.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/calendar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/calendar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/candies.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/candies.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/candies2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/candies2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/cards.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/cards.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/cards2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/cards2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/carousel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/carousel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/celex.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/celex.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/christmas.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/christmas.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/code$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/code$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/code.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/code.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/collatz$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/collatz$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/collatz.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/collatz.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/colorgrid$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/colorgrid$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/colorgrid$pair.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/colorgrid$pair.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/colorgrid.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/colorgrid.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/colorrect$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/colorrect$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/colorrect.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/colorrect.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/common$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/common$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/common.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/common.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/compcampstudent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/compcampstudent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/composing.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/composing.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/construct.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/construct.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/cookie$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/cookie$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/cookie.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/cookie.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/copycopycopy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/copycopycopy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/corners$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/corners$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/corners.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/corners.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/coronavirus$DSU.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/coronavirus$DSU.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/coronavirus$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/coronavirus$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/coronavirus$pair.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/coronavirus$pair.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/coronavirus.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/coronavirus.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/count.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/count.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/cplusequals$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/cplusequals$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/cplusequals.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/cplusequals.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/crossroads$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/crossroads$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/crossroads.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/crossroads.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/cupcakes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/cupcakes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/deathnote.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/deathnote.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/distance.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/distance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/distribution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/distribution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/disturbed.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/disturbed.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/divide.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/divide.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/divisibility.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/divisibility.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/divisible.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/divisible.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/dodgeball$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/dodgeball$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/dodgeball.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/dodgeball.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/door.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/door.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/dreamoon.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/dreamoon.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/dreamoon2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/dreamoon2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/dreamoon3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/dreamoon3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/dsuspecial.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/dsuspecial.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/energy.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/energy.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/equal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/equal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/escape.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/escape.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/eugene.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/eugene.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/even.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/even.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/fairground$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/fairground$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/fairground.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/fairground.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/fence$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/fence$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/fence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/fence.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/flip.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/flip.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/frog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/frog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/game23.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/game23.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/gcd.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/gcd.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/general.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/general.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/giftfix$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/giftfix$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/giftfix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/giftfix.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/gifting$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/gifting$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/gifting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/gifting.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/goodsub$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/goodsub$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/goodsub.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/goodsub.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/graysonbad$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/graysonbad$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/graysonbad$graph$edge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/graysonbad$graph$edge.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/graysonbad$graph$sub.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/graysonbad$graph$sub.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/graysonbad$graph.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/graysonbad$graph.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/graysonbad.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/graysonbad.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/gstring$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/gstring$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/gstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/gstring.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/hausmeister$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/hausmeister$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/hausmeister.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/hausmeister.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/haybales.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/haybales.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/hotel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/hotel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/icebreaker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/icebreaker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/ichihime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/ichihime.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/kana.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/kana.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/karatsuba.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/karatsuba.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/kuriyama$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/kuriyama$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/kuriyama.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/kuriyama.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/languages.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/languages.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/languages2$DSU.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/languages2$DSU.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/languages2$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/languages2$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/languages2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/languages2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/lcmprob$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/lcmprob$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/lcmprob.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/lcmprob.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/lighting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/lighting.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/limerick.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/limerick.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/lineup$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/lineup$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/lineup$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/lineup$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/lineup$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/lineup$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/lineup.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/lineup.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/longwords.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/longwords.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/lose.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/lose.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/makegood$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/makegood$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/makegood.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/makegood.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/marginal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/marginal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/maria.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/maria.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/matrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/matrix.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/merge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/merge.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/messages.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/messages.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/middle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/middle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/minnim$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/minnim$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/minnim.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/minnim.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/minnimbad$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/minnimbad$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/minnimbad.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/minnimbad.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/minsquare.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/minsquare.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/misha$DSU.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/misha$DSU.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/misha$pair.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/misha$pair.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/misha.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/misha.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/modinv$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/modinv$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/modinv.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/modinv.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/money.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/money.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/mootube$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/mootube$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/mootube.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/mootube.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/motarack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/motarack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/napsack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/napsack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/naptime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/naptime.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/nastya.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/nastya.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/nims$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/nims$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/nims.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/nims.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/nprime$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/nprime$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/nprime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/nprime.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/omit$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/omit$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/omit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/omit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/pair.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/pair.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/pairs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/pairs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/pairup.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/pairup.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/pairwise$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/pairwise$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/pairwise.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/pairwise.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/pairzoom.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/pairzoom.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/palindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/palindrome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/parity.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/parity.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/party$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/party$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/party.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/party.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/pasha.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/pasha.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/penlight.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/penlight.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/permutation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/permutation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/petr.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/petr.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/pflip$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/pflip$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/pflip.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/pflip.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/pillars.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/pillars.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/pizza$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/pizza$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/pizza.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/pizza.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/poker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/poker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/polling.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/polling.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/polygon.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/polygon.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/polyhedrons.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/polyhedrons.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/powernaps$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/powernaps$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/powernaps.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/powernaps.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/powers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/powers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/practice$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/practice$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/practice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/profitmax$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/profitmax$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/profitmax.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/profitmax.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/pseudocode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/pseudocode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/push.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/push.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/puzzle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/puzzle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/quicksort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/quicksort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/rainbow$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/rainbow$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/rainbow.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/rainbow.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/rated.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/rated.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/rating.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/rating.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/recruitment$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/recruitment$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/recruitment.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/recruitment.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/regionals.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/regionals.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/remainder.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/remainder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/restore$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/restore$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/restore.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/restore.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/ride.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/ride.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/road.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/road.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/romanji.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/romanji.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/selection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/selection.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/shell.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/shell.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/shovels.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/shovels.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/showtime.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/showtime.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/shuffle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/shuffle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/simplestrings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/simplestrings.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/skier.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/skier.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/small$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/small$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/small.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/small.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/snakeid$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/snakeid$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/snakeid.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/snakeid.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/snooze$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/snooze$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/snooze.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/snooze.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/sonya.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/sonya.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/spiderman.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/spiderman.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/split.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/split.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/square.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/square.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/stats.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/stats.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/sticks.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/sticks.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/subrmv$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/subrmv$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/subrmv.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/subrmv.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/sumodds.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/sumodds.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/surely.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/surely.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/susie.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/susie.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/swamp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/swamp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/taxi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/taxi.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/team.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/team.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/tejasanta$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/tejasanta$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/tejasanta.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/tejasanta.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/theater.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/theater.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/three.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/three.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/threestrings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/threestrings.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/timezone.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/timezone.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/trade$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/trade$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/trade.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/trade.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/triangle$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/triangle$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/triangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/triangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/triforce.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/triforce.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/twocarpets$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/twocarpets$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/twocarpets.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/twocarpets.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/unicorn.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/unicorn.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/unionfind$DSU.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/unionfind$DSU.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/unionfind$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/unionfind$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/unionfind.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/unionfind.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/upload$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/upload$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/upload.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/upload.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/upsolver.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/upsolver.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/vanya.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/vanya.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/vasya.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/vasya.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/vasya2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/vasya2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/vasya3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/vasya3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/vasya4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/vasya4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/vasya5$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/vasya5$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/vasya5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/vasya5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/vasya6$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/vasya6$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/vasya6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/vasya6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/voyage$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/voyage$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/voyage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/voyage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/vu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/vu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/water.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/water.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/weather$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/weather$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/weather.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/weather.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/winwinwin$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/winwinwin$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/winwinwin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/winwinwin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/xenia.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/xenia.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/zmeigorynich.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/zmeigorynich.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/zoom$FastScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/zoom$FastScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/zoom$sortcomparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/zoom$sortcomparator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/zoom.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/zoom.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/_DSU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/_DSU.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/booksez2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/booksez2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -381,7 +51,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.cowsnacks">
+  <component name="RunManager" selected="Application.cobbledstreets">
     <configuration name="BallsBins" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="BallsBins" />
       <module name="code-questions" />
@@ -573,6 +243,13 @@
     </configuration>
     <configuration name="circularrotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="circularrotation" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cobbledstreets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cobbledstreets" />
       <module name="code-questions" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -963,13 +640,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="transposematrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="transposematrix" />
-      <module name="code-questions" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="triforce" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="triforce" />
       <module name="code-questions" />
@@ -1082,19 +752,19 @@
       <item itemvalue="Application.altwonation" />
       <item itemvalue="Application.shortcircuit" />
       <item itemvalue="Application._Sieve_of_Eratosthenes" />
-      <item itemvalue="Application.transposematrix" />
       <item itemvalue="Application.potionmaking" />
       <item itemvalue="Application.permsort" />
       <item itemvalue="Application.circularrotation" />
       <item itemvalue="Application.cowsnacks" />
+      <item itemvalue="Application.cobbledstreets" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.cobbledstreets" />
         <item itemvalue="Application.cowsnacks" />
         <item itemvalue="Application.circularrotation" />
         <item itemvalue="Application.permsort" />
         <item itemvalue="Application.potionmaking" />
-        <item itemvalue="Application.transposematrix" />
       </list>
     </recent_temporary>
   </component>
@@ -1159,7 +829,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614029905520</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="UF programming team problems first commit">
+      <created>1632609655055</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1632609655055</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -1181,6 +858,7 @@
     <MESSAGE value="Many new problem solutions added" />
     <MESSAGE value="More CodeForces problem solutions" />
     <MESSAGE value="HSPT Tryout 1 done" />
-    <option name="LAST_COMMIT_MESSAGE" value="HSPT Tryout 1 done" />
+    <MESSAGE value="UF programming team problems first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="UF programming team problems first commit" />
   </component>
 </project>
