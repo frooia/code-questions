@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d4e8ba1-f4f7-4a06-99e1-248dfc6179d6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cobbledstreets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cobbledstreets2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +51,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.cobbledstreets">
+  <component name="RunManager" selected="Application.cobbledstreets2">
     <configuration name="BallsBins" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="BallsBins" />
       <module name="code-questions" />
@@ -250,6 +250,13 @@
     </configuration>
     <configuration name="cobbledstreets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cobbledstreets" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cobbledstreets2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cobbledstreets2" />
       <module name="code-questions" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -528,13 +535,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="potionmaking" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="potionmaking" />
-      <module name="code-questions" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="powers" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="powers" />
       <module name="code-questions" />
@@ -752,19 +752,19 @@
       <item itemvalue="Application.altwonation" />
       <item itemvalue="Application.shortcircuit" />
       <item itemvalue="Application._Sieve_of_Eratosthenes" />
-      <item itemvalue="Application.potionmaking" />
       <item itemvalue="Application.permsort" />
       <item itemvalue="Application.circularrotation" />
       <item itemvalue="Application.cowsnacks" />
       <item itemvalue="Application.cobbledstreets" />
+      <item itemvalue="Application.cobbledstreets2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.cobbledstreets2" />
         <item itemvalue="Application.cobbledstreets" />
         <item itemvalue="Application.cowsnacks" />
         <item itemvalue="Application.circularrotation" />
         <item itemvalue="Application.permsort" />
-        <item itemvalue="Application.potionmaking" />
       </list>
     </recent_temporary>
   </component>
@@ -836,7 +836,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632609655055</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Cobbled Street problem solution added">
+      <created>1633495129879</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1633495129879</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -859,6 +866,23 @@
     <MESSAGE value="More CodeForces problem solutions" />
     <MESSAGE value="HSPT Tryout 1 done" />
     <MESSAGE value="UF programming team problems first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="UF programming team problems first commit" />
+    <MESSAGE value="Cobbled Street problem solution added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cobbled Street problem solution added" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cobbledstreets2.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/cobbledstreets2.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

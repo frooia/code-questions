@@ -1,6 +1,6 @@
 import java.util.*;
 import java.io.*;
-public class _template {
+class _template {
     public static void main(String[] args) {
         FastScanner fs = new FastScanner(System.in);
         PrintWriter out = new PrintWriter(System.out);
