@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d4e8ba1-f4f7-4a06-99e1-248dfc6179d6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cobbledstreets2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/distinctcharq.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +51,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.cobbledstreets2">
+  <component name="RunManager" selected="Application.distinctcharq">
     <configuration name="BallsBins" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="BallsBins" />
       <module name="code-questions" />
@@ -283,6 +283,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="distinctcharq" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="distinctcharq" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="distribution" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="distribution" />
       <module name="code-questions" />
@@ -493,13 +500,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="permsort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="permsort" />
-      <module name="code-questions" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="permutation" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="permutation" />
       <module name="code-questions" />
@@ -669,6 +669,7 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.distinctcharq" />
       <item itemvalue="Application.longwords" />
       <item itemvalue="Application.shovels" />
       <item itemvalue="Application.TimeKeeper" />
@@ -752,7 +753,6 @@
       <item itemvalue="Application.altwonation" />
       <item itemvalue="Application.shortcircuit" />
       <item itemvalue="Application._Sieve_of_Eratosthenes" />
-      <item itemvalue="Application.permsort" />
       <item itemvalue="Application.circularrotation" />
       <item itemvalue="Application.cowsnacks" />
       <item itemvalue="Application.cobbledstreets" />
@@ -764,7 +764,6 @@
         <item itemvalue="Application.cobbledstreets" />
         <item itemvalue="Application.cowsnacks" />
         <item itemvalue="Application.circularrotation" />
-        <item itemvalue="Application.permsort" />
       </list>
     </recent_temporary>
   </component>
@@ -843,7 +842,14 @@
       <option name="project" value="LOCAL" />
       <updated>1633495129879</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Cobbled Street Prim's MST problem solution added, template changed to not be a public class">
+      <created>1634081058163</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1634081058163</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -867,22 +873,7 @@
     <MESSAGE value="HSPT Tryout 1 done" />
     <MESSAGE value="UF programming team problems first commit" />
     <MESSAGE value="Cobbled Street problem solution added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cobbled Street problem solution added" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cobbledstreets2.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/cobbledstreets2.java</url>
-          <line>28</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Cobbled Street Prim's MST problem solution added, template changed to not be a public class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cobbled Street Prim's MST problem solution added, template changed to not be a public class" />
   </component>
 </project>
