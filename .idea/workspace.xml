@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d4e8ba1-f4f7-4a06-99e1-248dfc6179d6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/distinctcharq.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/erectfence.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/code-questions/_template.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/_template.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -849,7 +850,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634081058163</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Distinct Characters Queries solution added (CF 1234D), TLE on test 9 though :(&#10;https://codeforces.com/problemset/problem/1234/D">
+      <created>1635286491594</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1635286491594</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -874,6 +882,7 @@
     <MESSAGE value="UF programming team problems first commit" />
     <MESSAGE value="Cobbled Street problem solution added" />
     <MESSAGE value="Cobbled Street Prim's MST problem solution added, template changed to not be a public class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Cobbled Street Prim's MST problem solution added, template changed to not be a public class" />
+    <MESSAGE value="Distinct Characters Queries solution added (CF 1234D), TLE on test 9 though :(&#10;https://codeforces.com/problemset/problem/1234/D" />
+    <option name="LAST_COMMIT_MESSAGE" value="Distinct Characters Queries solution added (CF 1234D), TLE on test 9 though :(&#10;https://codeforces.com/problemset/problem/1234/D" />
   </component>
 </project>
