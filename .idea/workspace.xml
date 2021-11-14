@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d4e8ba1-f4f7-4a06-99e1-248dfc6179d6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/erectfence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/deepdownbelow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/owlfox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pieceofcake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/robotfactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tavassaddas.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/code-questions/_template.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/code-questions/_template.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/erectfence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/erectfence.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +28,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
@@ -52,7 +64,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.distinctcharq">
+  <component name="RunManager" selected="Application.deepdownbelow">
     <configuration name="BallsBins" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="BallsBins" />
       <module name="code-questions" />
@@ -242,27 +254,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="circularrotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="circularrotation" />
-      <module name="code-questions" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="cobbledstreets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cobbledstreets" />
-      <module name="code-questions" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="cobbledstreets2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cobbledstreets2" />
-      <module name="code-questions" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="composing" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="composing" />
       <module name="code-questions" />
@@ -277,8 +268,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="cowsnacks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cowsnacks" />
+    <configuration name="deepdownbelow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="deepdownbelow" />
       <module name="code-questions" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -487,6 +478,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="owlfox" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="owlfox" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="pairs" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="pairs" />
       <module name="code-questions" />
@@ -510,6 +508,13 @@
     </configuration>
     <configuration name="petr" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="petr" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pieceofcake" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pieceofcake" />
       <module name="code-questions" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -564,6 +569,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="robotfactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="robotfactory" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="shortcircuit" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="shortcircuit" />
       <module name="code-questions" />
@@ -608,6 +620,13 @@
     </configuration>
     <configuration name="susie" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="susie" />
+      <module name="code-questions" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tavassaddas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tavassaddas" />
       <module name="code-questions" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -754,17 +773,19 @@
       <item itemvalue="Application.altwonation" />
       <item itemvalue="Application.shortcircuit" />
       <item itemvalue="Application._Sieve_of_Eratosthenes" />
-      <item itemvalue="Application.circularrotation" />
-      <item itemvalue="Application.cowsnacks" />
-      <item itemvalue="Application.cobbledstreets" />
-      <item itemvalue="Application.cobbledstreets2" />
+      <item itemvalue="Application.pieceofcake" />
+      <item itemvalue="Application.owlfox" />
+      <item itemvalue="Application.deepdownbelow" />
+      <item itemvalue="Application.tavassaddas" />
+      <item itemvalue="Application.robotfactory" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.cobbledstreets2" />
-        <item itemvalue="Application.cobbledstreets" />
-        <item itemvalue="Application.cowsnacks" />
-        <item itemvalue="Application.circularrotation" />
+        <item itemvalue="Application.deepdownbelow" />
+        <item itemvalue="Application.robotfactory" />
+        <item itemvalue="Application.tavassaddas" />
+        <item itemvalue="Application.owlfox" />
+        <item itemvalue="Application.pieceofcake" />
       </list>
     </recent_temporary>
   </component>
@@ -857,7 +878,14 @@
       <option name="project" value="LOCAL" />
       <updated>1635286491594</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Untested erectfence.java solution added">
+      <created>1635907821663</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1635907821663</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -883,6 +911,7 @@
     <MESSAGE value="Cobbled Street problem solution added" />
     <MESSAGE value="Cobbled Street Prim's MST problem solution added, template changed to not be a public class" />
     <MESSAGE value="Distinct Characters Queries solution added (CF 1234D), TLE on test 9 though :(&#10;https://codeforces.com/problemset/problem/1234/D" />
-    <option name="LAST_COMMIT_MESSAGE" value="Distinct Characters Queries solution added (CF 1234D), TLE on test 9 though :(&#10;https://codeforces.com/problemset/problem/1234/D" />
+    <MESSAGE value="Untested erectfence.java solution added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Untested erectfence.java solution added" />
   </component>
 </project>

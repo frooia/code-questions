@@ -20,7 +20,7 @@ class erectfence {
                 if (cp > 0) {
                     leftI = i;
                 } else if (cp == 0) {
-                    
+
                 }
             }
             ans.add(new ArrayList<>(Arrays.asList(trees[leftI][0], trees[leftI][1])));
