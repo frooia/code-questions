@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d4e8ba1-f4f7-4a06-99e1-248dfc6179d6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/discreteprob.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/starwars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vova.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -887,7 +888,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636875027725</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Solution added for a troubling problem in COT3100 Applications of Discrete Structures">
+      <created>1638779840227</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1638779840227</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -915,6 +923,7 @@
     <MESSAGE value="Distinct Characters Queries solution added (CF 1234D), TLE on test 9 though :(&#10;https://codeforces.com/problemset/problem/1234/D" />
     <MESSAGE value="Untested erectfence.java solution added" />
     <MESSAGE value="UFPT tryout 11/13/2021 completed, solutions added" />
-    <option name="LAST_COMMIT_MESSAGE" value="UFPT tryout 11/13/2021 completed, solutions added" />
+    <MESSAGE value="Solution added for a troubling problem in COT3100 Applications of Discrete Structures" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solution added for a troubling problem in COT3100 Applications of Discrete Structures" />
   </component>
 </project>
